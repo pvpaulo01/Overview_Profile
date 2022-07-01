@@ -1,6 +1,6 @@
 ### Olá Sou Paulo Victor De Oliveira ✌️✌️
 
-- 🔭 Hoje trabalho com Servidores Linux
+- 🔭 Analista de Suporte Linux
 - 🌱 Analise e Desenvolvimento de Sistemas
 - 🎶 Meu Hoobie é tocar Violão
  
